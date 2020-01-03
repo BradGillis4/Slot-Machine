@@ -56,7 +56,5 @@ public class Slots {
 		
 	}
 
-	//Object getWheel1() {
-		//return (wheel1[random.nextInt(wheel1.length)]);
-	//}
+	
 }
