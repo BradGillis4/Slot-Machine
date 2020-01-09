@@ -23,7 +23,7 @@ public class Slots {
 		face1[3] = f4;
 	}
 	
-	Object wheel2 = face1[random.nextInt(face2.length)];
+	Object wheel2 = face2[random.nextInt(face2.length)];
 	{
 		face2[0] = f1;
 		face2[1] = f2;
